@@ -6,9 +6,11 @@ This repository contains a topic modeling pipeline designed to analyze universit
 
 The questions used in this project were extracted from previously generated text-to-SQL samples. Only the **natural language questions** were used as input for the topic modeling pipeline, ensuring that the dataset consists of real student-like queries.
 
+This project was implemented and run in **Google Colab** for easy execution and visualization.
+
 This is an ongoing project, and further refinements will be made to improve the accuracy and effectiveness of the topic modeling approach.
 
-Repository for text-to-SQL sample generation: [Insert Repo Link Here]
+Repository for text-to-SQL sample generation: https\://github.com/annasus-10/Generate-Text-and-SQL-Pairs
 
 ## Features
 
